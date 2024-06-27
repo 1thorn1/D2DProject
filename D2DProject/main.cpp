@@ -16,3 +16,5 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     app.Run();
     app.Uninitialize();
 }
+
+// git을 commit 하기 위한 내용을 그냥 첨부해보았슴니다요리
