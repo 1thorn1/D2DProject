@@ -3,6 +3,7 @@
 
 // 윈도우 창 띄우기,
 // 메세지 루프 돌리기
+// 또 한 번의 테스트 주석
 void GameApp::Initialize(HINSTANCE hInstance)
 {
 	m_hInstance = hInstance;
